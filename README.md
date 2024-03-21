@@ -8,22 +8,27 @@ The purpose of this project was to create a payroll tracking program that allowe
 
 ## Table of Contents
 
+- [Original Code](#original-code)
 - [Code Source](#code-source-within-this-repo)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
+## Original Code
+
+The original, unedited code for this project can be found [HERE](https://git.bootcampcontent.com/University-of-Richmond/UR-VIRT-FSF-PT-02-2024-U-LOLC/-/tree/main/03-JavaScript/02-Challenge?ref_type=heads)
+
 ## Code Source Within This Repo
 
 The HTML code within this repo can be found at [./index.html](index.html)
 
-The CSS Style sheet can be found at [./assets/style.css](./assets/style.css)
+The JavaScript can be found at [./assets/script.js](./assets/script.js)
 
 ## Usage
 
-The live deployment of this project can be found at [https://h-lane.github.io/my-portfolio/](https://h-lane.github.io/my-portfolio/)
+The live deployment of this project can be found at [https://h-lane.github.io/payroll-tracker/](https://h-lane.github.io/payroll-tracker/)
 
-![alt text](assets/images/Portfolio.PNG)
+![alt text](./assets/Tracker.PNG)
 
 ## Credits
 
